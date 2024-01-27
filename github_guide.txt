@@ -1,0 +1,5 @@
+1.Create GTIHUB account
+2.Create repository
+3.Instance github client of the your laptop
+4.Clone repository from server to client
+git clone https://github.com/PeddiBharat/GTMPythonSeleniumTraining.git
